@@ -1,0 +1,10 @@
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\bin\Debug\Windows-PlatformGUI.exe.config
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\bin\Debug\Windows-PlatformGUI.exe
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\bin\Debug\Windows-PlatformGUI.pdb
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows-PlatformGUI.csprojAssemblyReference.cache
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows_PlatformGUI.WindowsPlatform.resources
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows_PlatformGUI.Properties.Resources.resources
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows-PlatformGUI.csproj.GenerateResource.cache
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows-PlatformGUI.csproj.CoreCompileInputs.cache
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows-PlatformGUI.exe
+C:\Users\tmarinescu2415\Source\Repos\Windows-PlatformGUI\Windows-PlatformGUI\obj\Debug\Windows-PlatformGUI.pdb
